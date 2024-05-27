@@ -3,3 +3,7 @@ Please have the following during review
 -Connected to the internet for the embedded document to load and the connected links to load
 
 -Downloaded the entire folder "Website Development - Output" to load all HTML, CSS, Java and elements for full website experience.
+
+Walkthrough Video - https://youtu.be/_e47RkgHR5o
+GitHub Repository - https://github.com/AP-BSU/Web-Development-Project-AP-BSU
+Google Drive Link - https://docs.google.com/document/d/e/2PACX-1vTbsA_z3CRBwj8S32pBVyJ-geKa_WQr2pMjN4uj8fFBMCTtuv0WgJvlcLqPMhKrMQ/pub
