@@ -2,4 +2,4 @@ Please have the following during review
 
 -Connected to the internet for the embedded document to load and the connected links to load
 
--Downloaded the entire folder "Website Development - Output" to load all HTML, CSS and Java files and elements.
+-Downloaded the entire folder "Website Development - Output" to load all HTML, CSS, Java and elements for full website experience.
