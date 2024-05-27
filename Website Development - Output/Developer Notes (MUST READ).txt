@@ -6,4 +6,5 @@ Please have the following during review
 
 Walkthrough Video - https://youtu.be/_e47RkgHR5o
 GitHub Repository - https://github.com/AP-BSU/Web-Development-Project-AP-BSU
-Google Drive Link - https://docs.google.com/document/d/e/2PACX-1vTbsA_z3CRBwj8S32pBVyJ-geKa_WQr2pMjN4uj8fFBMCTtuv0WgJvlcLqPMhKrMQ/pub
+SA-1 & 2 - Portofolio - https://drive.google.com/file/d/1aNUnGs0oWp809nwDa9V57G8OCUAtFsAL/view?usp=sharing
+SA2 - Development Document - https://docs.google.com/document/d/1MTC69FR75rVYoGDGVzntvLoOZ3D7NfjH/edit?usp=sharing&ouid=103384218198190586784&rtpof=true&sd=true
